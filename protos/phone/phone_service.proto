@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package genproto;
+option go_package = "genproto/phone";
+
+import "phone.proto";
+import "google/protobuf/empty.proto";
+
+service PhoneService {
+    rpc Create(Phone) returns (Phone) {}
+    rpc Update(Phone) returns (Phone) {}
+    rpc Delete(DeleteRequest) returns (google.protobuf.Empty) {}
+    rpc List(google.protobuf.Empty) returns (ListResponse) {}
+    rpc GetOne(GetOneRequest) returns (Phone) {}
+    rpc List2(List2Request) returns (List2Response) {}
+    rpc Search(SearchRequest) returns (SearchResponse) {}
+}
+
+message DeleteRequest {
+    uint64 id = 1;
+}
+
+message GetOneRequest {
+    uint64 id = 1;
+}
+
+message ListResponse {
+    repeated Phone phones = 1;
+}
+
+message SearchRequest {
+    string letter = 1;
+}
+
+message SearchResponse {
+    repeated Phone phones = 1;
+}
+
+message List2Request {
+    uint64 offset = 1;
+}
+
+message List2Response {
+    repeated Phone phones = 1;
+}

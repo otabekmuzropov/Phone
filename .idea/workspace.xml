@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="535b9a6e-4b0c-479a-8d7a-89c60012ef42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3969e41f-3fc5-4bab-9beb-9c5714a9ef84.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3969e41f-3fc5-4bab-9beb-9c5714a9ef84/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3969e41f-3fc5-4bab-9beb-9c5714a9ef84/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3969e41f-3fc5-4bab-9beb-9c5714a9ef84/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3969e41f-3fc5-4bab-9beb-9c5714a9ef84/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/98e1a385-c9e1-4c5a-8849-4adc09cd501e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/98e1a385-c9e1-4c5a-8849-4adc09cd501e/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/98e1a385-c9e1-4c5a-8849-4adc09cd501e/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/98e1a385-c9e1-4c5a-8849-4adc09cd501e/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/98e1a385-c9e1-4c5a-8849-4adc09cd501e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gen-proto.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genproto/phone/phone.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genproto/phone/phone_service.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/phone/phone.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/phone/phone_service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQbx2MzGcj5BTML6su1WNMh40G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Message" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/protos/phone" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bitbucket.org/alien_soft/phone" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="phone" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/server.go" />
+      <package value="bitbucket.org/alien_soft/phone" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build bitbucket.org/alien_soft/phone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="677" key="#Go_Modules_(vgo)" timestamp="1584797316382">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#Go_Modules_(vgo)/0.27.1366.741@0.27.1366.741" timestamp="1584797316382" />
+    <state x="141" y="54" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584956631686">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584956631686" />
+    <state x="444" y="154" key="FileChooserDialogImpl" timestamp="1591969376566">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="444" y="154" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1591969376566" />
+    <state width="906" height="177" key="GridCell.Tab.0.bottom" timestamp="1584958650167">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584958650167" />
+    <state width="906" height="177" key="GridCell.Tab.0.center" timestamp="1584958650166">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584958650166" />
+    <state width="906" height="177" key="GridCell.Tab.0.left" timestamp="1584958650165">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584958650165" />
+    <state width="906" height="177" key="GridCell.Tab.0.right" timestamp="1584958650167">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="906" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584958650167" />
+    <state x="516" y="121" width="323" height="551" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584956554729">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="516" y="121" width="323" height="551" key="com.intellij.database.view.ui.DbObjectDialog/0.27.1366.741@0.27.1366.741" timestamp="1584956554729" />
+    <state x="403" y="311" width="550" height="171" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584877179544">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="403" y="311" width="550" height="171" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.741@0.27.1366.741" timestamp="1584877179544" />
+  </component>
+</project>

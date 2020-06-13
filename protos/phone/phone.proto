@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package genproto;
+option go_package = "genproto/phone";
+
+message Phone {
+    uint64 id = 1;
+    string name = 2;
+    string ram = 3;
+    uint64 screen_diagnol = 4;
+    string battery = 5;
+    string memory = 6;
+    string status = 7;
+}
